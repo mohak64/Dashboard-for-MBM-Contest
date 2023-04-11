@@ -1,0 +1,11 @@
+npm create vite@latest
+react
+typescript
+extention - redux devtools
+Pesticide for Chrome
+npm i react-redux @reduxjs/toolkit
+npm i react-router-dom @mui/material @emotion/react @emotion/styled @mui/icons-material
+@mui/x-data-grid
+npm i -D @types/react-dom
+npm i -D eslint eslint-config-react-app
+npm i -D @types/node // ../../ ye sab ni krna padega iss se
