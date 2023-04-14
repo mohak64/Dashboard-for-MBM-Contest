@@ -6,6 +6,8 @@ type Props = {};
 
 const Row1 = (props: Props) => {
   const {data} = useGetKpisQuery();
+  console.log("🚀 ~ file: Row1.tsx:9 ~ Row1 ~ data:", data)
+  
   return ( 
     <>
       <DashboardBox gridArea="b"></DashboardBox>
